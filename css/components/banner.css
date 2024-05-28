@@ -1,0 +1,23 @@
+.banner {
+  padding: 150px;
+  margin: 0 auto;
+  background-repeat:no-repeat;
+  background-size: cover;
+}
+
+.banner p {
+  font-weight: bold;
+}
+
+.banner p, h1 {
+  color: white;
+  padding:10px;
+}
+
+.boton {
+  background-color: #6F4E37;
+  color: #FED8B1;
+  padding:10px;
+  border-radius: 50px;
+  font-weight: bold;
+}
